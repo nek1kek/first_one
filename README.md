@@ -1,4 +1,4 @@
-
+#Check logs on Windows for something strange
 for more information how it had  been created
 https://docs.google.com/document/d/11qMO0QSBqvCJs4bTUgcZA2ZDxr83HAw0rsv6QdRSaeI/edit
 
